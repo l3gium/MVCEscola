@@ -1,0 +1,7 @@
+D:\Estudos\MVCEscola\MVCEscola\bin\Debug\MVCEscola.exe.config
+D:\Estudos\MVCEscola\MVCEscola\bin\Debug\MVCEscola.exe
+D:\Estudos\MVCEscola\MVCEscola\bin\Debug\MVCEscola.pdb
+D:\Estudos\MVCEscola\MVCEscola\obj\Debug\MVCEscola.csproj.AssemblyReference.cache
+D:\Estudos\MVCEscola\MVCEscola\obj\Debug\MVCEscola.csproj.CoreCompileInputs.cache
+D:\Estudos\MVCEscola\MVCEscola\obj\Debug\MVCEscola.exe
+D:\Estudos\MVCEscola\MVCEscola\obj\Debug\MVCEscola.pdb
